@@ -1,6 +1,6 @@
-import re
+import regex as re
 
-__version__ = '1.1.0'
+__version__ = '1.1.1'
 
 
 def boolean(value):
