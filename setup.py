@@ -18,7 +18,6 @@ setup(name='boolean',
       version=version,
       description="Converts string to their equivalent boolean value",
       long_description=readme,
-      classifiers=[],
       keywords='boolean true false yes no',
       author='Alireza J (Scisco)',
       author_email='scisco7@gmail.com',
@@ -40,4 +39,4 @@ setup(name='boolean',
           'Programming Language :: Python :: 3.3',
           'Programming Language :: Python :: 3.4',
       ],
-      )
+)
